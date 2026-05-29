@@ -238,13 +238,18 @@ Automation workflow for generating, formatting, and publishing AI-generated long
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 Developer Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OmmprakashMohanty01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmprakashMohanty01&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmmprakashMohanty01&theme=tokyonight" />
 
 </div>
+
 
 ---
 
