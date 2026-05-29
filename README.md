@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,a855f7,0ea5e9,0d1117&height=220&section=header&animation=twinkling" width="100%" alt="Cyberpunk Header Banner"/>
 
 <a href="https://github.com/OmmprakashMohanty01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0ea5e9&center=true&vCenter=true&width=800&lines=%3E_INITIATING+SYSTEM...;Hi,+I'm+Omm+Prakash+Mohanty+👋;AI+%26+Full-Stack+Engineer;Architecting+Intelligent+RAG+Systems;Building+Scalable+LLM+Applications;Open-Source+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0ea5e9&center=true&vCenter=true&width=800&lines=%3E_INITIATING+SYSTEM...;Hi,+I'm+Omm+Prakash+Mohanty+👋;AI+%26+Full-Stack+Engineer;Architecting+Intelligent+RAG+Systems;Building+Scalable+LLM+Applications;Open-Source+%26+Automation+Enthusiast" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=OmmprakashMohanty01&label=SYSTEM+VIEWS&style=for-the-badge&color=a855f7" alt="Profile Views" />
@@ -120,15 +120,8 @@ I am an **AI & Full-Stack Developer** dedicated to bridging the gap between cutt
 ## 📊 𝗦𝗬𝗦𝗧𝗘𝗠 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=OmmprakashMohanty01&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=0ea5e9&text_color=ffffff" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=OmmprakashMohanty01&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=0ea5e9&currStreakLabel=ffffff" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OmmprakashMohanty01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=OmmprakashMohanty01&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" width="48%" alt="Top Contributed Repos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmmprakashMohanty01&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=0ea5e9&text_color=ffffff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmprakashMohanty01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff" width="48%" alt="Top Languages" />
 </div>
 
 <br>
@@ -142,7 +135,9 @@ I am an **AI & Full-Stack Developer** dedicated to bridging the gap between cutt
 
 ### 🏆 Achievement Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmmprakashMohanty01&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=OmmprakashMohanty01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
@@ -152,7 +147,7 @@ I am an **AI & Full-Stack Developer** dedicated to bridging the gap between cutt
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake (Requires Action Setup)" src="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -167,15 +162,9 @@ I am an **AI & Full-Stack Developer** dedicated to bridging the gap between cutt
 ## 📡 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗘𝗫𝗧𝗥𝗔𝗦
 
 <div align="center">
-  
-  <a href="https://spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novathem&bar_color=a855f7&bar_color_cover=false" alt="Spotify Now Playing" width="300" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com">
-    <img src="https://leetcard.jacoblin.cool/OmmprakashMohanty01?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="400" />
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
-
 </div>
 
 <br>
