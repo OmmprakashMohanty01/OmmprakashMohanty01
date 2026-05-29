@@ -30,28 +30,60 @@
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Omm%20Prakash%20Mohanty&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=AI+%26+Full-Stack+Developer;Building+LLM+%26+RAG+Applications;Computer+Vision+%26+Automation+Engineer;Open-Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=OmmprakashMohanty01&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+---
+
 # 💫 About Me
 
-🚀 AI & Full-Stack Developer focused on building practical, scalable, and intelligent applications using modern technologies.
+<table>
+<tr>
+<td width="60%">
 
-💡 Passionate about AI engineering, backend systems, RAG pipelines, automation workflows, and developer-focused tools.
+🚀 AI & Full-Stack Developer passionate about building intelligent systems and scalable applications.
 
-🌱 Currently exploring advanced LLM orchestration, scalable system design, vector databases, and real-time AI applications.
+🧠 Working on:
+- LLM Applications
+- RAG Pipelines
+- AI Automation Tools
+- Computer Vision Systems
+- Scalable Backend APIs
 
-🏗️ Building projects around:
-- AI Assistants
-- Retrieval-Augmented Generation (RAG)
-- Player Re-Identification Systems
-- Automation Platforms
-- Full-Stack Web Applications
+🌱 Currently exploring:
+- Advanced AI Engineering
+- System Design
+- Distributed Systems
+- Open Source Development
+
+⚡ Strong interest in transforming ideas into real-world AI products.
 
 🤝 Open to:
-- Open-source collaboration
-- AI/Full-stack opportunities
-- Innovative startup projects
-- Research & engineering communities
+- Collaborations
+- AI Projects
+- Open Source Contributions
+- Internship & Full-Time Opportunities
 
-⚡ I enjoy turning ideas into real products through clean code, AI systems, and continuous learning.
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -217,19 +249,17 @@ Interactive AI-powered educational assistant designed for personalized learning 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmmprakashMohanty01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=0EA5E9&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmmprakashMohanty01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmprakashMohanty01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmprakashMohanty01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmprakashMohanty01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=0EA5E9&point=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=OmmprakashMohanty01&theme=tokyonight&hide_border=true" />
 
 </div>
 
