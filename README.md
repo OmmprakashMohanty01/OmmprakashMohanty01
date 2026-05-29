@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:A855F7,100:0EA5E9&text=OMM%20PRAKASH%20MOHANTY&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open-Source%20Builder&descAlignY=57&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:A855F7,100:0EA5E9&text=OMMPRAKASH%20MOHANTY&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open-Source%20Builder&descAlignY=57&animation=fadeIn" width="100%" alt="Header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Omm+Prakash+Mohanty+👋;AI+%26+Full-Stack+Developer;Building+LLM+%26+RAG+Systems;Open-Source+Contributor;Automation+%26+AI+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ommprakash+Mohanty+👋;AI+%26+Full-Stack+Developer;Building+LLM+%26+RAG+Systems;Open-Source+Contributor;Automation+%26+AI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=OmmprakashMohanty01&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=OmmprakashMohanty01&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/OmmprakashMohanty01?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/OmmprakashMohanty01?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Followers"/>
 
-<img src="https://img.shields.io/github/stars/OmmprakashMohanty01?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/OmmprakashMohanty01/Business-RAG-Q-A-Bot?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117" alt="Repo Stars"/>
 
 <br><br>
 
-<a href="https://linkedin.com/in/omm-mohanty-366b73278">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/ommprakash-mohanty-366b73278/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:ommmohanty419@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/OmmprakashMohanty01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -45,44 +45,47 @@ Passionate about building intelligent systems, scalable backend architectures, a
 <br>
 
 <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=openai&logoColor=white&color=0EA5E9"/>
+
 <img src="https://img.shields.io/badge/RAG_Systems-0D1117?style=for-the-badge&color=A855F7"/>
+
 <img src="https://img.shields.io/badge/AI_Automation-0D1117?style=for-the-badge&color=0EA5E9"/>
+
 <img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&color=A855F7"/>
 
 <br><br>
 
 ```python
-class OmmPrakashMohanty():
-    
+class OmmPrakashMohanty:
+
     def __init__(self):
         self.role = "AI & Full-Stack Developer"
-        self.language = ["Python", "JavaScript"]
-        self.interests = [
+        self.languages = ["Python", "JavaScript"]
+        self.specialization = [
             "LLMs",
             "RAG Systems",
-            "Automation",
+            "AI Automation",
             "System Design",
             "Computer Vision"
         ]
 
     def say_hi(self):
         print("Thanks for visiting my profile 🚀")
-````
+```
 
 ### 🌱 Currently Exploring
 
-* Advanced AI Engineering
-* Distributed Systems
-* Scalable Infrastructure
-* AI Agent Architectures
-* Open Source Collaboration
+- Advanced AI Engineering
+- Distributed Systems
+- Scalable Infrastructure
+- AI Agent Architectures
+- Open Source Collaboration
 
 ### 🤝 Open To
 
-* AI Collaborations
-* Open Source Projects
-* Internships & Full-Time Roles
-* Freelance Opportunities
+- AI Collaborations
+- Open Source Projects
+- Internship Opportunities
+- Freelance Projects
 
 </td>
 
@@ -90,11 +93,11 @@ class OmmPrakashMohanty():
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmprakashMohanty01&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmprakashMohanty01&theme=tokyonight" width="100%" alt="Summary Card"/>
 
 </div>
 
@@ -130,6 +133,7 @@ DevOps & Deployment    [████████░░░░░░░] 65%
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🧠 Business RAG Q&A Assistant
@@ -142,10 +146,10 @@ Enterprise-grade RAG assistant for querying and summarizing business documents u
 
 ### 🌟 Features
 
-* Semantic Search
-* AI Question Answering
-* Vector Embeddings
-* Context-aware Responses
+- Semantic Search
+- AI Question Answering
+- Vector Embeddings
+- Context-aware Responses
 
 <div align="center">
 
@@ -169,10 +173,10 @@ Automation workflow for generating, formatting, and publishing AI-generated long
 
 ### 🌟 Features
 
-* Automated Publishing
-* AI Content Generation
-* Workflow Automation
-* Semantic Processing
+- Automated Publishing
+- AI Content Generation
+- Workflow Automation
+- Semantic Processing
 
 <div align="center">
 
@@ -183,6 +187,65 @@ Automation workflow for generating, formatting, and publishing AI-generated long
 </div>
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 👁️ Player Re-Identification
+
+Computer vision system for tracking and re-identifying players across multiple camera feeds.
+
+### ⚙️ Stack
+
+`YOLOv8` `OpenCV` `PyTorch`
+
+### 🌟 Features
+
+- Real-time Tracking
+- Cross-camera Detection
+- Sports Analytics
+- AI Vision Models
+
+<div align="center">
+
+<a href="https://github.com/OmmprakashMohanty01/player_reidentification">
+<img src="https://img.shields.io/badge/View_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 SanJyoti AI Assistant
+
+Interactive AI-powered learning assistant focused on personalized education.
+
+### ⚙️ Stack
+
+`React` `Node.js` `LLMs`
+
+### 🌟 Features
+
+- AI Tutoring
+- Smart Learning
+- Personalized Assistance
+- Interactive UI
+
+<div align="center">
+
+<a href="https://github.com/OmmprakashMohanty01/SANJYOTI_01">
+<img src="https://img.shields.io/badge/View_Repository-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
 </tr>
 </table>
 
@@ -232,7 +295,11 @@ Automation workflow for generating, formatting, and publishing AI-generated long
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -242,14 +309,13 @@ Automation workflow for generating, formatting, and publishing AI-generated long
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmprakashMohanty01&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmmprakashMohanty01&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmmprakashMohanty01&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmmprakashMohanty01&theme=tokyonight"/>
 
 </div>
-
 
 ---
 
@@ -268,4 +334,3 @@ Automation workflow for generating, formatting, and publishing AI-generated long
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,50:A855F7,100:0EA5E9"/>
 
 </div>
-```
