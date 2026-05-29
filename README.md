@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,a855f7,0ea5e9,0d1117&height=220&section=header&animation=twinkling" width="100%" alt="Cyberpunk Header Banner"/>
 
 <a href="https://github.com/OmmprakashMohanty01">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0ea5e9&center=true&vCenter=true&width=800&lines=%3E_INITIATING+SYSTEM...;Hi,+I'm+Omm+Prakash+Mohanty+👋;AI+%26+Full-Stack+Engineer;Architecting+Intelligent+RAG+Systems;Building+Scalable+LLM+Applications;Open-Source+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0ea5e9&center=true&vCenter=true&width=800&lines=%3E_INITIATING+SYSTEM...;Hi,+I'm+Omm+Prakash+Mohanty+👋;AI+%26+Full-Stack+Engineer;Architecting+Intelligent+RAG+Systems;Building+Scalable+LLM+Applications;Open-Source+%26+Automation+Enthusiast" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=OmmprakashMohanty01&label=SYSTEM+VIEWS&style=for-the-badge&color=a855f7" alt="Profile Views" />
@@ -15,9 +15,6 @@
 </a>
 <a href="mailto:OMMMOHANTY419@GMAIL.COM">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117&labelColor=EA4335" alt="Email" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/PORTFOLIO-252F3F?style=for-the-badge&logo=Vercel&logoColor=white&color=0d1117&labelColor=a855f7" alt="Portfolio Placeholder" />
 </a>
 <a href="https://github.com/OmmprakashMohanty01">
   <img src="https://img.shields.io/badge/FOLLOWERS-121011?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0ea5e9" alt="GitHub Followers" />
@@ -98,7 +95,7 @@ I am an **AI & Full-Stack Developer** dedicated to bridging the gap between cutt
 | **Architecture:** Enterprise-grade intelligent assistant utilizing Retrieval-Augmented Generation (RAG) to dynamically query, summarize, and extract actionable insights from complex business documents. | **Architecture:** End-to-end automated pipeline for generating, formatting, and publishing comprehensive books, driven by advanced LLM orchestration and workflow automation APIs. |
 | ⚡ **Tech Stack:** `FastAPI` `LangChain` `Pinecone` `React` | ⚡ **Tech Stack:** `Python` `OpenAI API` `Automation APIs` |
 | 🌟 **Impact:** Engineered scalable semantic search infrastructure, drastically reducing data retrieval latency while mitigating LLM hallucinations. | 🌟 **Impact:** Created a true zero-touch publishing workflow, successfully bridging the gap from a raw prompt to a fully formatted, publish-ready draft. |
-| <div align="center">[🔗 View Repository](#)</div> | <div align="center">[🔗 View Repository](#)</div> |
+| <div align="center">[🔗 View Repository](https://github.com/OmmprakashMohanty01/Business-RAG-Q-A-Bot)</div> | <div align="center">[🔗 View Repository](https://github.com/OmmprakashMohanty01/Auto-book-publisher)</div> |
 
 <br>
 
@@ -107,7 +104,7 @@ I am an **AI & Full-Stack Developer** dedicated to bridging the gap between cutt
 | **Architecture:** Robust computer vision pipeline engineered for real-time tracking and precise re-identification of players across multiple dynamic camera angles in high-speed sports environments. | **Architecture:** Intelligent, interactive learning platform providing hyper-personalized educational assistance through customized conversational AI and vector search. |
 | ⚡ **Tech Stack:** `YOLOv8` `OpenCV` `PyTorch` `Deep SORT` | ⚡ **Tech Stack:** `React` `Node.js` `LLMs` `Vector DBs` |
 | 🌟 **Impact:** Optimized inference speed for edge deployment, maintaining state-of-the-art accuracy even in visually cluttered and occluded scenes. | 🌟 **Impact:** Developed context-aware tutoring algorithms that seamlessly adapt responses to individual user learning paces and styles. |
-| <div align="center">[🔗 View Repository](#)</div> | <div align="center">[🔗 View Repository](#)</div> |
+| <div align="center">[🔗 View Repository](https://github.com/OmmprakashMohanty01/player_reidentification)</div> | <div align="center">[🔗 View Repository](https://github.com/OmmprakashMohanty01/SANJYOTI_01)</div> |
 
 <br>
 
@@ -120,51 +117,30 @@ I am an **AI & Full-Stack Developer** dedicated to bridging the gap between cutt
 ## 📊 𝗦𝗬𝗦𝗧𝗘𝗠 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmmprakashMohanty01&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=0ea5e9&text_color=ffffff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmprakashMohanty01&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmmprakashMohanty01&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmmprakashMohanty01&theme=radical&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 <br>
 
 ### 📈 Contribution Matrix
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmprakashMohanty01&bg_color=0d1117&color=a855f7&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmmprakashMohanty01&theme=radical&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
 
 ### 🏆 Achievement Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OmmprakashMohanty01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=OmmprakashMohanty01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <br>
-
-### 🐍 Open Source Activity (Snake Grid)
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake (Requires Action Setup)" src="https://raw.githubusercontent.com/OmmprakashMohanty01/OmmprakashMohanty01/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=a855f7,0ea5e9&height=2&width=100%" alt="Divider"/>
-</div>
-
-<br>
-
-## 📡 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗘𝗫𝗧𝗥𝗔𝗦
-
-<div align="center">
-  <a href="https://leetcode.com">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
 </div>
 
 <br>
