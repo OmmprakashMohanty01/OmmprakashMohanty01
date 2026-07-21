@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="376" viewBox="0 0 480 376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Terminal Background and Border -->
+  <rect width="480" height="376" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="479" height="375" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="30" x2="480" y2="30" stroke="#30363d"/>
+  
+  <!-- macOS Buttons -->
+  <circle cx="20" cy="15.0" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/>
+  <circle cx="52" cy="15.0" r="5" fill="#27c93f"/>
+  
+  <!-- Top Header Text -->
+  <text x="240.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">ommprakash@github: ~$ ./portrait.sh</text>
+
+  <!-- ===================================================================== -->
+  <!-- PASTE YOUR ADOBE SVG CODE HERE -->
+  <!-- Open your `file.svg`, copy everything BETWEEN <svg> and </svg>        -->
+  <!-- and paste it right below this line!                                   -->
+  <!-- ===================================================================== -->
+  
+  <g transform="translate(50, 40) scale(0.6)"> 
+      <!-- PASTE HERE. Note: You may need to tweak the translate(X, Y) and scale(0.X) numbers to center your face perfectly in the window! -->
+  </g>
+
+  <!-- ===================================================================== -->
+
+  <!-- Bottom Footer with Blinking Cursor -->
+  <line x1="0" y1="346" x2="480" y2="346" stroke="#30363d"/>
+  <text x="20" y="365" fill="#7d8590" font-size="13">ommprakash@github:~$ whoami <tspan fill="#c9d1d9">Ommprakash Mohanty</tspan></text>
+  <rect x="290" y="354" width="8" height="14" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
