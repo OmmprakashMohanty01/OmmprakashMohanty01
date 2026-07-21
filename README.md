@@ -1,20 +1,48 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:A855F7,100:0EA5E9&text=OMMPRAKASH%20MOHANTY&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=AI%20Automation%20and%20Solutions%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Workflows&descAlignY=56&animation=fadeIn" width="100%" alt="Header" />
+
+<!-- hero: animated contribution graph -->
+<h3><code>ommprakash@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contributions.svg" width="860" alt="GitHub Contributions" />
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+AI+Automation+Specialist;Building+High-Impact+AI+Workflows;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+Systems;Product-Oriented+Technologist;Solving+Business+Problems+With+Code" alt="Typing SVG" />
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=OmmprakashMohanty01&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Views" />
-<img src="https://img.shields.io/github/followers/OmmprakashMohanty01?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/OmmprakashMohanty01/Business-RAG-Q-A-Bot?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117" alt="Repo Stars" />
-<br><br>
+<br>
+
+<!-- hero: monochrome ASCII portrait beside a neofetch-style info panel -->
+<h3><code>ommprakash@github ~ $ whoami</code></h3>
+
+<table style="border: none; background: transparent;">
+<tr>
+<td valign="top" style="border: none; background: transparent;"><img src="./omm-ascii.svg" width="370" alt="Ommprakash Mohanty — ASCII portrait" /></td>
+<td valign="top" style="border: none; background: transparent;"><img src="./info-card.svg" width="490" alt="Ommprakash Mohanty — experience, stack, highlights" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>ommprakash@github ~ $ ./links.sh</code></h3>
+
+<p><b>AI Automation & Solutions Engineer | LLMs | RAG</b></p>
+
 <a href="https://www.linkedin.com/in/ommprakash-mohanty-366b73278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ommmohanty419@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/OmmprakashMohanty01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br><br>
+
+<!-- Restored original stats badges -->
+<img src="https://komarev.com/ghpvc/?username=OmmprakashMohanty01&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Views" />
+<img src="https://img.shields.io/github/followers/OmmprakashMohanty01?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/OmmprakashMohanty01/Business-RAG-Q-A-Bot?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117" alt="Repo Stars" />
+
 </div>
 
 ---
+
+<br>
 
 <table width="100%" style="border-collapse: collapse;">
 <tr>
