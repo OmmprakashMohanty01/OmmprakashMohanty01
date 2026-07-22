@@ -6,7 +6,15 @@
       <stop offset="1" stop-color="#0d1117"/>
     </linearGradient>
 
-    <!-- Keeps the scanner effects inside the terminal window -->
+    <!-- NEW: The mask that reveals and erases the image -->
+    <!-- Height goes 0 -> 316 (revealing) then 316 -> 0 (erasing) in sync with the laser -->
+    <clipPath id="image-wipe">
+      <rect x="0" y="30" width="480" height="0">
+        <animate attributeName="height" values="0; 316; 0" dur="4s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+
+    <!-- Keeps the scanner effects safely inside the terminal window -->
     <clipPath id="terminal-clip">
         <rect x="0" y="30" width="480" height="316"/>
     </clipPath>
@@ -25,17 +33,21 @@
   <!-- IMAGE & ANIMATION CONTAINER -->
   <g clip-path="url(#terminal-clip)">
     
-    <!-- PASTE YOUR ADOBE SVG INSIDE THIS GROUP -->
-    <g transform="translate(60, 40) scale(0.6)"> 
-        
-        <!-- *** PASTE ADOBE CODE HERE *** -->
+    <!-- APPLY THE REVEAL/ERASE MASK TO THE IMAGE GROUP -->
+    <g clip-path="url(#image-wipe)">
+        <!-- PASTE YOUR ADOBE SVG INSIDE THIS GROUP -->
+        <g transform="translate(60, 40) scale(0.6)"> 
+            
+            <!-- *** PASTE ADOBE CODE HERE *** -->
 
+        </g>
     </g>
 
-    <!-- EFFECT 1: Scrambling Raster Cursor (Smaller, tighter, no gaps) -->
+    <!-- EFFECT 1: Scrambling Raster Cursor -->
+    <!-- Bounces up and down seamlessly with the laser line -->
     <rect x="0" y="30" width="6" height="8" fill="#3fb950" opacity="0.4">
       <animate attributeName="x" from="-10" to="480" dur="0.1s" repeatCount="indefinite" />
-      <animate attributeName="y" from="30" to="346" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="y" values="30; 340; 30" dur="4s" repeatCount="indefinite" />
     </rect>
 
     <!-- EFFECT 2: Bi-directional Scanner Line & Glow -->
@@ -45,9 +57,9 @@
           <animate attributeName="y1" values="30; 346; 30" dur="4s" repeatCount="indefinite" />
           <animate attributeName="y2" values="30; 346; 30" dur="4s" repeatCount="indefinite" />
       </line>
-      <!-- The soft blue glow trailing the scanner -->
-      <rect x="0" y="30" width="480" height="15" fill="#0ea5e9" opacity="0.1">
-          <animate attributeName="y" values="30; 346; 30" dur="4s" repeatCount="indefinite" />
+      <!-- The soft blue glow tracking with the laser -->
+      <rect x="0" y="20" width="480" height="20" fill="#0ea5e9" opacity="0.1">
+          <animate attributeName="y" values="20; 336; 20" dur="4s" repeatCount="indefinite" />
       </rect>
     </g>
 
