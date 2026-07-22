@@ -63,7 +63,9 @@ for week in weeks:
     added_month = False
     for date_obj, count, weekday in week:
         month_name = date_obj.strftime("%b")
-        if date_obj.day <= 7 and month_name not in months_added and not added_month:
+        
+        # FIX: Place label immediately when a new month is encountered in a column
+        if month_name not in months_added and not added_month:
             svg += f'<text class="lbl" x="{x}" y="16">{month_name}</text>\n'
             months_added.append(month_name)
             added_month = True
