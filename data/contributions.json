@@ -1,22 +1,22 @@
 {
   "username": "OmmprakashMohanty01",
-  "generated_at": "2026-08-15T06:59:55Z",
+  "generated_at": "2026-08-16T07:01:00Z",
   "range": {
-    "start": "2025-08-10",
+    "start": "2025-08-17",
+    "end": "2026-08-16"
+  },
+  "total_contributions": 909,
+  "active_days": 230,
+  "avg_per_active_day": 4.0,
+  "current_streak": {
+    "length": 34,
+    "start": "2026-07-13",
     "end": "2026-08-15"
   },
-  "total_contributions": 926,
-  "active_days": 235,
-  "avg_per_active_day": 3.9,
-  "current_streak": {
-    "length": 33,
-    "start": "2026-07-13",
-    "end": "2026-08-14"
-  },
   "longest_streak": {
-    "length": 33,
+    "length": 34,
     "start": "2026-07-13",
-    "end": "2026-08-14"
+    "end": "2026-08-15"
   },
   "best_day": {
     "date": "2026-05-29",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 45
+      "total": 27
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 17
+      "total": 18
     }
   ],
   "days": [
-    {
-      "date": "2025-08-10",
-      "count": 0
-    },
-    {
-      "date": "2025-08-11",
-      "count": 2
-    },
-    {
-      "date": "2025-08-12",
-      "count": 3
-    },
-    {
-      "date": "2025-08-13",
-      "count": 3
-    },
-    {
-      "date": "2025-08-14",
-      "count": 2
-    },
-    {
-      "date": "2025-08-15",
-      "count": 4
-    },
-    {
-      "date": "2025-08-16",
-      "count": 4
-    },
     {
       "date": "2025-08-17",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-08-15",
+      "count": 1
+    },
+    {
+      "date": "2026-08-16",
       "count": 0
     }
   ]
