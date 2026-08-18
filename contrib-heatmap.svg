@@ -387,6 +387,7 @@
 <rect class="c g" x="850" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.60s"/>
 <rect class="c g" x="850" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.60s"/>
 <rect class="c g" x="866" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.65s"/>
-<rect class="c" x="866" y="40" width="13" height="13" rx="2.5" fill="#161b22" style="animation-delay:2.65s"/>
-<text class="total" x="34" y="152">910 contributions in the last year</text>
+<rect class="c g" x="866" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.65s"/>
+<rect class="c" x="866" y="56" width="13" height="13" rx="2.5" fill="#161b22" style="animation-delay:2.65s"/>
+<text class="total" x="34" y="152">911 contributions in the last year</text>
 </svg>
