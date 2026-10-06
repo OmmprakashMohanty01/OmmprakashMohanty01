@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430">
+  <defs>
+    <linearGradient id="cBgGrad" x1="0" y1="0" x2="900" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="cBgGradLight" x1="0" y1="0" x2="900" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#edf2f7"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="termGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0f1a"/>
+      <stop offset="100%" stop-color="#0d1220"/>
+    </linearGradient>
+    <linearGradient id="termGradLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <linearGradient id="stepAccent1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="stepAccent2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="stepAccent3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="redAccent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff0040"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <linearGradient id="portraitBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0040"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <pattern id="cGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1a2332" stroke-width="0.3"/>
+    </pattern>
+    <filter id="cGlow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="cShadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <clipPath id="miniPhotoClip">
+      <circle cx="500" cy="380" r="22"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes typeIn{0%{width:0}100%{width:100%}}
+    @keyframes cursorPulse{0%,100%{opacity:1}50%{opacity:0}}
+    @keyframes stepGlow{0%,100%{opacity:.08}50%{opacity:.18}}
+    @keyframes slideUp{0%{transform:translateY(6px);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+    .cursor-p{animation:cursorPulse 1s step-end infinite}
+    .step-glow{animation:stepGlow 3s ease-in-out infinite}
+
+    .c-bg-dark{fill:url(#cBgGrad)}
+    .c-bg-light{fill:url(#cBgGradLight);opacity:0}
+    .c-grid{opacity:.8}
+    .c-card{fill:#111827;stroke:#1a2332;stroke-width:.8}
+    .c-term-bg{fill:url(#termGrad)}
+    .c-term-bar{fill:#151d2b}
+    .c-step-bg{fill:#0c1220;stroke:#1a2332;stroke-width:.5}
+    .ct1{fill:#f0f6fc}
+    .ct2{fill:#8b949e}
+    .ct3{fill:#484f58}
+    .c-green{fill:#2dd4bf}
+    .c-red-num{fill:#ff0040}
+    .c-portrait-bg{fill:#151d2b}
+
+    @media(prefers-color-scheme:light){
+      .c-bg-dark{opacity:0}
+      .c-bg-light{opacity:1}
+      .c-grid{opacity:.3}
+      .c-card{fill:#ffffff;stroke:#e2e8f0}
+      .c-term-bg{fill:url(#termGradLight)}
+      .c-term-bar{fill:#e2e8f0}
+      .c-step-bg{fill:#f0f4f8;stroke:#e2e8f0}
+      .ct1{fill:#1a202c}
+      .ct2{fill:#4a5568}
+      .ct3{fill:#a0aec0}
+      .c-portrait-bg{fill:#edf2f7}
+    }
+  </style>
+
+  <!-- =============== BACKGROUND =============== -->
+  <rect width="900" height="430" rx="12" class="c-bg-dark"/>
+  <rect width="900" height="430" rx="12" class="c-bg-light"/>
+  <rect width="900" height="430" rx="12" fill="url(#cGrid)" class="c-grid"/>
+
+  <!-- ================================================================ -->
+  <!-- LEFT CARD: IDEAS. BUILT DIFFERENT.                                -->
+  <!-- ================================================================ -->
+  <rect x="10" y="10" width="425" height="410" rx="12" class="c-card" filter="url(#cShadow)"/>
+
+  <!-- Title -->
+  <text x="35" y="48" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="-0.5" class="ct1">IDEAS.</text>
+  <text x="35" y="70" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="1.5" class="ct3">BUILT DIFFERENT.</text>
+
+  <!-- Terminal Window -->
+  <rect x="25" y="90" width="395" height="310" rx="8" class="c-term-bg"/>
+
+  <!-- Terminal title bar -->
+  <rect x="25" y="90" width="395" height="32" rx="8" class="c-term-bar"/>
+  <rect x="25" y="110" width="395" height="12" class="c-term-bar"/>
+  <!-- Traffic light dots -->
+  <circle cx="45" cy="106" r="4.5" fill="#ff5f57"/>
+  <circle cx="62" cy="106" r="4.5" fill="#febc2e"/>
+  <circle cx="79" cy="106" r="4.5" fill="#28c840"/>
+  <!-- Terminal title -->
+  <text x="222" y="110" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="9.5" class="ct3" opacity=".6">~/ommprakash/pipeline</text>
+
+  <!-- Command line -->
+  <text x="42" y="148" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="11" class="c-green" opacity=".9">$ ./build.sh --mode=production</text>
+  <rect x="268" y="138" width="1.5" height="13" class="c-green cursor-p"/>
+
+  <!-- ===== STEP 01: IDEATE ===== -->
+  <g>
+    <rect x="38" y="168" width="370" height="52" rx="6" class="c-step-bg"/>
+    <!-- Left accent bar -->
+    <rect x="38" y="168" width="3" height="52" rx="1.5" fill="url(#stepAccent1)"/>
+    <!-- Glow -->
+    <rect x="38" y="168" width="3" height="52" rx="1.5" fill="url(#stepAccent1)" class="step-glow" filter="url(#cGlow)"/>
+    <!-- Number -->
+    <text x="58" y="200" font-family="SFMono-Regular, Consolas, monospace" font-size="18" font-weight="800" fill="#00d4ff" opacity=".9">01</text>
+    <!-- Title -->
+    <text x="98" y="190" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" class="ct1">IDEATE</text>
+    <!-- Description -->
+    <text x="98" y="207" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="10.5" class="ct2" opacity=".75">Research · Architecture Design · Prototype</text>
+  </g>
+
+  <!-- Connector arrow 1→2 -->
+  <line x1="223" y1="220" x2="223" y2="234" stroke="#1e293b" stroke-width="1" stroke-dasharray="2 2"/>
+  <polygon points="219,233 223,240 227,233" fill="#1e293b"/>
+
+  <!-- ===== STEP 02: ENGINEER ===== -->
+  <g>
+    <rect x="38" y="244" width="370" height="52" rx="6" class="c-step-bg"/>
+    <rect x="38" y="244" width="3" height="52" rx="1.5" fill="url(#stepAccent2)"/>
+    <rect x="38" y="244" width="3" height="52" rx="1.5" fill="url(#stepAccent2)" class="step-glow" filter="url(#cGlow)" style="animation-delay:1s"/>
+    <text x="58" y="276" font-family="SFMono-Regular, Consolas, monospace" font-size="18" font-weight="800" fill="#3b82f6" opacity=".9">02</text>
+    <text x="98" y="266" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" class="ct1">ENGINEER</text>
+    <text x="98" y="283" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="10.5" class="ct2" opacity=".75">Clean Code · Test Coverage · Peer Review</text>
+  </g>
+
+  <!-- Connector arrow 2→3 -->
+  <line x1="223" y1="296" x2="223" y2="310" stroke="#1e293b" stroke-width="1" stroke-dasharray="2 2"/>
+  <polygon points="219,309 223,316 227,309" fill="#1e293b"/>
+
+  <!-- ===== STEP 03: SHIP ===== -->
+  <g>
+    <rect x="38" y="320" width="370" height="52" rx="6" class="c-step-bg"/>
+    <rect x="38" y="320" width="3" height="52" rx="1.5" fill="url(#stepAccent3)"/>
+    <rect x="38" y="320" width="3" height="52" rx="1.5" fill="url(#stepAccent3)" class="step-glow" filter="url(#cGlow)" style="animation-delay:2s"/>
+    <text x="58" y="352" font-family="SFMono-Regular, Consolas, monospace" font-size="18" font-weight="800" fill="#818cf8" opacity=".9">03</text>
+    <text x="98" y="342" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" class="ct1">SHIP</text>
+    <text x="98" y="359" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="10.5" class="ct2" opacity=".75">Deploy · Monitor · Scale to Production</text>
+  </g>
+
+  <!-- Pipeline status -->
+  <text x="42" y="392" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-size="10" class="c-green" opacity=".7">✓ Pipeline complete. Status: READY</text>
+
+
+  <!-- ================================================================ -->
+  <!-- RIGHT CARD: MORE THAN A JOB TITLE.                               -->
+  <!-- ================================================================ -->
+  <rect x="465" y="10" width="425" height="410" rx="12" class="c-card" filter="url(#cShadow)"/>
+
+  <!-- Title -->
+  <text x="490" y="45" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="2" class="ct3">MORE THAN A</text>
+  <text x="490" y="73" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.5" class="ct1">JOB TITLE.</text>
+
+  <!-- Divider -->
+  <line x1="490" y1="88" x2="590" y2="88" stroke="#1e293b" stroke-width="1" opacity=".4"/>
+
+  <!-- ===== ITEM 01 ===== -->
+  <g>
+    <text x="492" y="138" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="url(#redAccent)" opacity=".85">01</text>
+    <text x="548" y="121" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.8" class="ct1">FIRST PRINCIPLES</text>
+    <text x="548" y="140" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" class="ct2" opacity=".7">Break problems to their core.</text>
+    <text x="548" y="156" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" class="ct2" opacity=".7">Rebuild from foundations up.</text>
+  </g>
+
+  <!-- ===== ITEM 02 ===== -->
+  <g>
+    <text x="492" y="225" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="url(#redAccent)" opacity=".85">02</text>
+    <text x="548" y="208" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.8" class="ct1">BUILD IN PUBLIC</text>
+    <text x="548" y="227" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" class="ct2" opacity=".7">Open source. Transparent process.</text>
+    <text x="548" y="243" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" class="ct2" opacity=".7">Shared learning, shared growth.</text>
+  </g>
+
+  <!-- ===== ITEM 03 ===== -->
+  <g>
+    <text x="492" y="312" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="url(#redAccent)" opacity=".85">03</text>
+    <text x="548" y="295" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.8" class="ct1">SHIP &amp; ITERATE</text>
+    <text x="548" y="314" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" class="ct2" opacity=".7">Launch fast. Gather feedback.</text>
+    <text x="548" y="330" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" class="ct2" opacity=".7">Improve relentlessly. Repeat.</text>
+  </g>
+
+  <!-- ===== MINI PORTRAIT PLACEHOLDER ===== -->
+  <g>
+    <circle cx="500" cy="382" r="24" fill="none" stroke="url(#portraitBorder)" stroke-width="1.5" opacity=".45"/>
+    <circle cx="500" cy="382" r="20" class="c-portrait-bg"/>
+    <g clip-path="url(#miniPhotoClip)" opacity=".2">
+      <circle cx="500" cy="375" r="8" fill="#6b7a8d"/>
+      <ellipse cx="500" cy="398" rx="13" ry="10" fill="#6b7a8d"/>
+    </g>
+  </g>
+
+  <!-- Decorative quote -->
+  <text x="540" y="388" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="9.5" font-style="italic" class="ct3" opacity=".5">"Code is poetry when architecture is the verse."</text>
+
+</svg>
